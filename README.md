@@ -70,7 +70,7 @@ The **part 1** notebook performs the following:
 
 Intermediate feature files and model outputs are cached to disk for reproducibility.
 
-### Step 3: Visualize results
+### Visualize results
 - All performance plots, score histograms, and correlation heatmaps are saved in the `figures/` folder.
 - Evaluation outputs and metrics are stored in `results/`.
 
