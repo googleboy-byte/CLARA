@@ -1,0 +1,2 @@
+# Tell GitHub Linguist to ignore all shell scripts in this folder
+catalogues/tess_download_scripts/*.sh linguist-detectable=false
