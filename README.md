@@ -1,6 +1,6 @@
 # CLARA: Controllable Learning for Anomaly Recognition in Astrophysics
 
-The software implementation of this independent research project is available at https://github.com/googleboy-byte/clara-cli
+The software implementation of this independent research project is under development and available at https://github.com/googleboy-byte/clara-cli
 
 ## Overview
 
