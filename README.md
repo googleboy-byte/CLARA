@@ -1,5 +1,7 @@
 # CLARA: Controllable Learning for Anomaly Recognition in Astrophysics
 
+The software implementation of this independent research project is available at https://github.com/googleboy-byte/clara-cli
+
 ## Overview
 
 **CLARA** is a research pipeline and toolkit for unsupervised and weakly supervised discovery of astrophysical phenomena in TESS light curves. It is designed to systematically explore how the design of synthetic training sets and feature engineering can steer the behavior of Unsupervised Random Forests (URFs) and clustering algorithms, enabling the identification and interpretation of anomalies—such as exoplanet transits, eclipsing binaries, and other variable stars—directly from large-scale survey data.
