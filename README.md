@@ -2,6 +2,10 @@
 
 The software implementation of this independent research project is under development and available at https://github.com/googleboy-byte/clara-cli
 
+## Publication
+
+**Paper:** [arXiv:2508.04722](https://arxiv.org/abs/2508.04722)
+
 ## Overview
 
 **CLARA** is a research pipeline and toolkit for unsupervised and weakly supervised discovery of astrophysical phenomena in TESS light curves. It is designed to systematically explore how the design of synthetic training sets and feature engineering can steer the behavior of Unsupervised Random Forests (URFs) and clustering algorithms, enabling the identification and interpretation of anomalies—such as exoplanet transits, eclipsing binaries, and other variable stars—directly from large-scale survey data.
@@ -163,7 +167,6 @@ All steps are reproducible via the notebooks, which include code, comments, and 
 - Builds on Crake & Martínez-Galarza (2023) for URF methodology
 - Uses TESS data from NASA/MAST
 - Lomb-Scargle periodogram via VanderPlas (2018)
-- Please cite the forthcoming CLARA paper if using this code or results
 
 ---
 
